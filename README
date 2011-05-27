@@ -1,0 +1,6 @@
+The idea is simple, and this is an old prototype. I want to a bookmarklet
+that'll create a basic spreadsheet out of tables of data in the browser.
+
+The basic implementation that exists here allows editing, but not much
+else. Ideally, there'd be the ability to do basic calculations with a
+preset list of functions, and the like.
